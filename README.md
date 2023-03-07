@@ -2,9 +2,9 @@
 This is my first git check point repo from alx c13
 
 ### Objectives
--[] learn more about git and git commands
--[] apply them for collaboration and professional purposes
--[] learn some more all over...
+- [x] learn more about git and git commands
+- [x] apply them for collaboration and professional purposes
+- [] learn some more all over...
 
 ### What is this repo for?
 
