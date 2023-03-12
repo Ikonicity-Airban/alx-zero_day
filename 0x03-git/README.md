@@ -20,6 +20,5 @@ This project specifically focuses on the basic git commands that are needed and 
 
 ### Files and folders in this ###
 
-+ [c](c) contains one file.
-+ [js](js) contains two files [main.js](js/main.js) and [index.js](js/index.js)
++ [c](c) contains one file [c_is_fun.c](c/c_is_fun.c)
 + [bash](bash) contains two files [alx](alx) and [school](bash/school)
